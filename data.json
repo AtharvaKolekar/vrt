@@ -1,0 +1,26 @@
+[
+    {
+        "title": "HKR",
+        "subtitle": "Captian",
+        "image_url": "./img/Captain/65bb9888488e9.webp",
+        "type": "Captain"
+    },
+    {
+        "title": "Captain",
+        "subtitle": "Harsh Kadam",
+        "image_url": "./img/Captain/65bb9888488e9.webp",
+        "type": "Captain"
+    },
+    {
+        "title": "Captain_2",
+        "subtitle": "Harsh Rao",
+        "image_url": "./img/Captain/65bb98a1330fd.webp",
+        "type": "Captain"
+    },
+    {
+        "title": "Member",
+        "subtitle": "Rahul Sharma",
+        "image_url": "./img/Captain/65bb98cb40675.webp",
+        "type": "Captain"
+    }
+]
